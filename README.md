@@ -31,7 +31,6 @@ A full-stack real-time chat application built with React (frontend) and Node.js/
 
 ```bash
 git clone https://github.com/kgpian-alok/interactive-chat-platform-with-real-time-status-and-media-sharing.git
-cd frontend
 ```
 
 #### 2. Backend Setup
